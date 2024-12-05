@@ -12,6 +12,7 @@
 #include <cstring> // strcmp
 #include <sstream> // stringstream
 #include <cstdlib> // exit
+#include <cstdint>
 
 using namespace std;
 

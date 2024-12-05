@@ -10,6 +10,7 @@
 #include <string>
 #include <sstream> // stringstream
 #include <cstdlib> // exit
+#include <cstdint>
 
 using namespace std;
 
